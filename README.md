@@ -2,6 +2,9 @@
  
 Testing Embeddings augmentation performance on small datasets
 
+## Dataset
+https://github.com/snipsco/nlu-benchmark
+
 ## References
 1. https://www.inference.vc/mixup-data-dependent-data-augmentation/
 2. https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/
